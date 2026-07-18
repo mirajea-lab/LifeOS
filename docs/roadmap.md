@@ -1,36 +1,44 @@
 v0.1
 
-FastAPI
+프로젝트 시작
 
-SQLite
+Narrative 입력
 
-Experience 저장
+Experience 모델
 
------------
+----------------
 
 v0.2
 
-AI Summary
+Experience Analyzer
 
-AI Tag
+Fact
 
------------
+Emotion
+
+Intent
+
+----------------
 
 v0.3
 
-Person
+Memory Store
 
-Timeline
+SQLite
 
------------
+CRUD
+
+----------------
 
 v0.4
 
-Journey
+Journey Engine
 
-Graph
+Relation
 
------------
+Timeline
+
+----------------
 
 v1.0
 
